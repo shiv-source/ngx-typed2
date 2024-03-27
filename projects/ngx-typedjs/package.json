@@ -1,0 +1,39 @@
+{
+  "name": "ngx-typed2",
+  "description": "An Angular Typing Animation Library.",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0",
+    "typed.js": "^2.1.0"
+  },
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiv-source/ngx-typed2.git"
+  },
+  "private": false,
+  "keywords": [
+    "typed",
+    "animation",
+    "angular",
+    "ngx-typed2",
+    "typed.js"
+  ],
+  "author": {
+    "name": "Shiv Kumar",
+    "email": "hello@shivkumar.me",
+    "url": "https://shivkumar.me"
+  },
+  "bugs": {
+    "url": "https://github.com/shiv-source/ngx-typed2/issues"
+  },
+  "homepage": "https://github.com/shiv-source/ngx-typed2#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
